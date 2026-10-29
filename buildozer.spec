@@ -5,7 +5,7 @@ package.domain = org.techtok
 source.dir = .
 source.include_exts = py
 version = 0.4
-requirements = python3,kivy==2.3.0
+requirements = python3,kivy
 orientation = landscape
 fullscreen = 1
 android.permissions = VIBRATE, INTERNET, ACCESS_WIFI_STATE, ACCESS_NETWORK_STATE
